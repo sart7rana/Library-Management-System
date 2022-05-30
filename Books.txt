@@ -1,0 +1,6 @@
+1,JK Rowling,Harry Potter,$5,10
+2,James Clear,Atomic Habits,$15,15
+3,Peter Thiel,Zero to One,$20,5
+4,Robert Iger,The ride of a lifetime,$15,10
+5,Cal Newport,Deep Work,$10,7
+6,Jim Collins,Good to Great,$10,15
